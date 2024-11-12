@@ -1,5 +1,5 @@
 import tkinter as tk
-from tkinter import messagebox
+
 def addy():
 	num1=int(entry_num1.get())
 	num2=int(entry_num2.get()) 
